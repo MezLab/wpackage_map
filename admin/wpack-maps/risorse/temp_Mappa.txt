@@ -1,0 +1,11 @@
+{"NomeFile":"CorsiePreferenziali.json","Titolo":"Corsie Preferenziali","Icona":"corsie_preferenziali.png","Marker":"corsie_marker.png","Color":"#006989"}
+{"NomeFile":"CarSharing.json","Titolo":"Car Sharing","Icona":"car_sharing.png","Marker":"car_marker.png","Color":"#f73545"}
+{"NomeFile":"BikeSharing.json","Titolo":"Bike Sharing","Icona":"bike_sharing.png","Marker":"bike_marker.png","Color":"#006989"}
+{"NomeFile":"PuntiInfomobility.json","Titolo":"Punti Infomobility","Icona":"info_point.png","Marker":"info_marker.png","Color":"#f73545"}
+{"NomeFile":"Cicletteria.json","Titolo":"Cicletteria","Icona":"cicletteria.png","Marker":"cicletteria_marker.png","Color":"#006989"}
+{"NomeFile": "VarchieZTL.json","Titolo": "Varchi e ZTL","Icona": "varchi_ztl.png","Marker": "varchi_marker.png","Color": "#f73545"}
+{"NomeFile":"Zone.json","Titolo":"Zone","Icona":"zone.png","Marker":"zone_marker.png","Color":"#006989"}
+{"NomeFile":"StradeSensibili.json","Titolo":"Strade Sensibili","Icona":"strade_sensibili.png","Marker":"strade_marker.png","Color":"#f73545"}
+{"NomeFile":"Parcheggicopertiapagamento.json","Titolo":"Parcheggi coperti a pagamento","Icona":"park_coperti_a_pagamento.png","Marker":"parcheggiCoperti_marker.png","Color":"#006989"}
+{"NomeFile":"IsolaAmbientale.json","Titolo":"Isola Ambientale","Icona":"isola_ambientale.png","Marker":"ambientali_marker.png","Color":"#f73545"}
+{"NomeFile":"ParcheggiScambiatori.json","Titolo":"Parcheggi Scambiatori","Icona":"parcheggi_scambiatori.png","Marker":"scambiatori_marker.png","Color":"#006989"}{"NomeFile":"AreeSensibili.json","Titolo":"Aree Sensibili","Icona":"aree_sensibili_icon.png","Marker":"areeSensibili_marker.png","Color":"#f73545"}
